@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="Verify_Aadhaar">Verify Aadhaar</string>
+    <string name="Resent_OTP">Resent OTP in 30 sec</string>
+    <string name="wrong_mob">Dont have +91XXXXXXXXX3?</string>
+    <string name="Manual_verification">Use this option to verify manually</string>
+    <string name="Enter_OTP">Enter OTP sent to the mobile number linked with your Aadhar +918XXXXXXX32</string>
+
 </resources>
