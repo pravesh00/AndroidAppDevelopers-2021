@@ -17,6 +17,7 @@
         app:itemCount="6"
         app:itemRadius="10sp"
         app:itemSpacing="15sp"
+        android:inputType="number"
         app:itemHeight="50sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
